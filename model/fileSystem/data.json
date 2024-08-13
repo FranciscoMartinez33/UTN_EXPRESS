@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "nombre": "Camiseta",
+        "precio": 19.99,
+        "disponible": true,
+        "detalles": {
+            "color": "Rojo",
+            "talla": "M"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Pantalón",
+        "precio": 29.99,
+        "disponible": false,
+        "detalles": {
+            "color": "Azul",
+            "talla": "L"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Zapatos",
+        "precio": 49.99,
+        "disponible": true,
+        "detalles": {
+            "color": "Negro",
+            "talla": 42
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Sombrero",
+        "precio": 15.99,
+        "disponible": true,
+        "detalles": {
+            "color": "Marrón",
+            "talla": "Única"
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Bufanda",
+        "precio": 9.99,
+        "disponible": true,
+        "detalles": {
+            "color": "Verde",
+            "talla": "Única"
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "Guantes",
+        "precio": 12.99,
+        "disponible": false,
+        "detalles": {
+            "color": "Gris",
+            "talla": "M"
+        }
+    },
+    {
+        "id": 7,
+        "nombre": "Chaqueta",
+        "precio": 59.99,
+        "disponible": true,
+        "detalles": {
+            "color": "Negro",
+            "talla": "L"
+        }
+    },
+    {
+        "id": 8,
+        "nombre": "Gafas de sol",
+        "precio": 25.99,
+        "disponible": true,
+        "detalles": {
+            "color": "Negro",
+            "protecciónUV": "400"
+        }
+    },
+    {
+        "id": 9,
+        "nombre": "Reloj",
+        "precio": 199.99,
+        "disponible": true,
+        "detalles": {
+            "color": "Plateado",
+            "resistente al agua": true
+        }
+    },
+    {
+        "id": 10,
+        "nombre": "Mochila",
+        "precio": 39.99,
+        "disponible": true,
+        "detalles": {
+            "color": "Azul",
+            "capacidad": "20L"
+        }
+    }
+]
